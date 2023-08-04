@@ -182,7 +182,7 @@ class CharacterListItem extends StatelessWidget {
             children: [
               Text(
                 character.name,
-                style: TextStyle(color: ColorManager.yellow, fontSize: AppSize.s25),
+                style: TextStyle(color: ColorManager.yellow, fontSize: AppSize.s24),
               ),
             ],
           ),
